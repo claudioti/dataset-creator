@@ -14,3 +14,6 @@ Some constants from /utils/Constants.py file can be modified to customize the sc
 
 #Run the script
 * python main_create_datasets.py
+
+#Generated dataset:
+* http://dx.doi.org/10.17632/623sshkdrz.5
